@@ -6,4 +6,4 @@ This repository contains a machine learning solution designed to distinguish use
 
 You can access the live version of the ML solution deployed on Streamlit here:
 
-[Live Demo](https://tramlgqxqklolza4woz4r3.streamlit.app/)
+[Live Demo](https://passive-captcha-ml-solution.streamlit.app/)
